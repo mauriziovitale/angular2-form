@@ -1,0 +1,8 @@
+typings/
+node_modules/
+bower_components/
+*.js
+*.js.map
+.idea
+!app/widgets/*.js
+!app/js/*.js
